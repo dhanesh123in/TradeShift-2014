@@ -1,0 +1,7 @@
+*.z
+*.zip
+*.gz
+*.csv
+.ipynb*
+*.Rdata
+
